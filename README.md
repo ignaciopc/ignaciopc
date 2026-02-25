@@ -61,7 +61,7 @@ Actualmente trabajo en <a href="https://lynxweb.dev" target="_blank">LynxWeb</a>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ignaciopc&theme=tokyonight&no-frame=true&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ignaciopc&theme=tokyonight&no-frame=true&column=7&margin-w=15)
 
 </div>
 
@@ -71,7 +71,7 @@ Actualmente trabajo en <a href="https://lynxweb.dev" target="_blank">LynxWeb</a>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-palomar)
 
 </div>
 
