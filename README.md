@@ -1,30 +1,45 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Ignacio+%F0%9F%91%8B;Desarrollador+Web+Full+Stack;Apasionado+por+el+Frontend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Ignacio+%F0%9F%91%8B;Desarrollador+Web+Full+Stack;Next.js+%7C+Node.js+%7C+Vue.js;Apasionado+por+el+backend+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🙋‍♂️ Sobre mí
 
-Soy **Ignacio Palomar Chacón**, desarrollador web con experiencia en frontend y backend.
-Actualmente cursando **DAW** y construyendo proyectos con Vue, PHP y JavaScript.
+Soy **Ignacio Palomar Chacón**, desarrollador web full stack con foco en backend.
+Me encanta programar porque es como armar rompecabezas que ponen a prueba mi lógica y creatividad.
 
-- 🔭 Trabajando en mi **TFG** con Vue.js
-- 🌱 Aprendiendo cada día más sobre el ecosistema JavaScript
+Actualmente trabajo en **[LynxWeb](https://lynxweb.es)** construyendo proyectos reales con Next.js y Node.js.
+
+- 💼 Trabajando en **LynxWeb** como desarrollador web
+- ⚡ Me especializo en **backend**, pero construyo proyectos completos de principio a fin
+- 🛠️ Stack principal: **Next.js · Node.js · Vue.js**
+- 🌱 Siempre aprendiendo y buscando nuevos retos
 - 📍 España
 
 ---
 
 ## 🛠️ Tecnologías que uso
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Herramientas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -52,11 +67,11 @@ Actualmente cursando **DAW** y construyendo proyectos con Vue, PHP y JavaScript.
 
 ---
 
-## 🐍 Mis contribuciones
+## 📬 Contacto
 
 <div align="center">
 
-![Snake animation](https://github.com/ignaciopc/ignaciopc/blob/output/github-contribution-grid-snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
 
 </div>
 
