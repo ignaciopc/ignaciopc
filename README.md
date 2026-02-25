@@ -46,13 +46,11 @@ Actualmente trabajo en <a href="https://lynxweb.dev" target="_blank">LynxWeb</a>
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignaciopc&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciopc&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=ignaciopc&theme=tokyonight&hide_border=true&locale=es)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ignaciopc&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciopc&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ignaciopc&theme=tokyonight&hide_border=true&locale=es" />
 </div>
 
 ---
@@ -60,9 +58,7 @@ Actualmente trabajo en <a href="https://lynxweb.dev" target="_blank">LynxWeb</a>
 ## 🏆 Trofeos
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ignaciopc&theme=tokyonight&no-frame=true&column=7&margin-w=15)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ignaciopc&theme=tokyonight&no-frame=true&column=6&margin-w=15" />
 </div>
 
 ---
@@ -71,8 +67,7 @@ Actualmente trabajo en <a href="https://lynxweb.dev" target="_blank">LynxWeb</a>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-palomar)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-palomar-chac%C3%B3n-921b9a2a5/)
 </div>
 
 ---
