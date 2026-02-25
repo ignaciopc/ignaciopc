@@ -46,9 +46,9 @@ Actualmente trabajo en <a href="https://lynxweb.dev" target="_blank">LynxWeb</a>
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignaciopc&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ignaciopc&show_icons=true&theme=tokyonight&hide_border=true&locale=es&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciopc&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciopc&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=ignaciopc&theme=tokyonight&hide_border=true&locale=es" />
 </div>
