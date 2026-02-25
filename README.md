@@ -9,7 +9,7 @@
 Soy **Ignacio Palomar Chacón**, desarrollador web full stack con foco en backend.
 Me encanta programar porque es como armar rompecabezas que ponen a prueba mi lógica y creatividad.
 
-Actualmente trabajo en **[LynxWeb](https://lynxweb.dev))** construyendo proyectos reales con Next.js y Node.js.
+Actualmente trabajo en <a href="https://lynxweb.dev" target="_blank">LynxWeb</a> construyendo proyectos reales con Next.js y Node.js.
 
 - 💼 Trabajando en **LynxWeb** como desarrollador web
 - ⚡ Me especializo en **backend**, pero construyo proyectos completos de principio a fin
