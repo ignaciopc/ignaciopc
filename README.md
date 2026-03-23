@@ -15,7 +15,7 @@
 ---
 
 ## 🙋‍♂️ Sobre mí
-ts
+```ts
 const ignacio = {
   nombre:     "Ignacio Palomar Chacón",
   ubicación:  "España 🇪🇸",
@@ -25,7 +25,7 @@ const ignacio = {
   intereses:  ["backend", "arquitectura de sistemas", "APIs REST", "DX"],
   frase:      "El código es como un rompecabezas: la lógica es la pieza clave 🧩"
 };
-` ` `
+```
 
 - 💼 Trabajo en **[LynxWeb](https://lynxweb.dev)** construyendo proyectos reales
 - ⚡ Me especializo en **backend**, pero entrego proyectos completos de principio a fin
