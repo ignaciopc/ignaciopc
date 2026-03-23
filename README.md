@@ -2,7 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ignacio%20Palomar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20·%20Backend%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Ignacio+%F0%9F%91%8B;Desarrollador+Web+Full+Stack;Especialista+en+Backend+%F0%9F%9A%80;Next.js+%7C+Node.js+%7C+Vue.js;Siempre+construyendo+algo+nuevo+%E2%9A%A1" alt="Typing SVG" />
+<table border="0">
+<tr>
+<td align="center">
+<img src="https://github.com/ignaciopc.png" width="130" style="border-radius:50%;" />
+</td>
+<td align="left">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=false&vCenter=true&width=500&lines=Hola%2C+soy+Ignacio+%F0%9F%91%8B;Desarrollador+Web+Full+Stack;Especialista+en+Backend+%F0%9F%9A%80;Next.js+%7C+Node.js+%7C+Vue.js;Siempre+construyendo+algo+nuevo+%E2%9A%A1" alt="Typing SVG" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -111,5 +120,3 @@ const ignacio = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-
